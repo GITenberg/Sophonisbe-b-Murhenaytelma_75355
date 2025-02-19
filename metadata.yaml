@@ -1,0 +1,28 @@
+_repo: Sophonisbe-b-Murhenaytelma_75355
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haarla, Lauri
+    birthdate: 1890
+    deathdate: 1944
+    gutenberg_agent_id: '45467'
+    url: http://www.gutenberg.org/2009/agents/45467
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Haarla
+description: ''
+gutenberg_issued: '2025-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75355'
+language: fi
+pgterms:marc905: 20250111230526haarla
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sophonisbe : $b Murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/75355
